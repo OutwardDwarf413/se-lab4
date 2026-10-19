@@ -1,0 +1,4 @@
+GT4500,10,0,10,0 # Creatte ship
+TORPEDO,SINGLE # primary
+TORPEDO,SINGLE # secundary
+TORPEDO,SINGLE # primary again

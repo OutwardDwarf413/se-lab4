@@ -1,0 +1,4 @@
+GT4500,1,0,10,0 # Create ship
+TORPEDO,SINGLE # primary
+TORPEDO,SINGLE # secundary
+TORPEDO,SINGLE # secundary again, primary empty
