@@ -1,0 +1,3 @@
+GT4500,10,0,0,0 # Create a ship with ammo in primary and empty secondary
+TORPEDO,SINGLE # primary fires
+TORPEDO,SINGLE # secondyr empty, primary fires again

@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 # Create an empty ship
+TORPEDO,ALL # Fire all torpedos
